@@ -137,7 +137,7 @@ Page({
           const fontTop = height * 0.245
           this.ctx.font = `${fontSize}px bold`
           this.ctx.textAlign = 'center'
-          this.ctx.fillText('小微祝福你', width / 2, fontTop);
+          this.ctx.fillText('哈德韦祝福你', width / 2, fontTop);
           this.ctx.save()
 
           // 绘制对联
